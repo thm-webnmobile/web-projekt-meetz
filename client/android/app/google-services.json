@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845138975782",
+    "firebase_url": "https://meetz-26943.firebaseio.com",
+    "project_id": "meetz-26943",
+    "storage_bucket": "meetz-26943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845138975782:android:313972215a1fd24a08dae7",
+        "android_client_info": {
+          "package_name": "com.frameworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845138975782-dqjjkfetp24t73lqb4cl7t56c574gq11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXecF931hNb28vrhJc8y5db-wgCJqx5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845138975782-dqjjkfetp24t73lqb4cl7t56c574gq11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
